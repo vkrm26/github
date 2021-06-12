@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GithubPRs</string>
+    <string name="created_date">Created date</string>
+    <string name="closed_date">Closed date</string>
+    <string name="raised_by">Raised by -</string>
+    <string name="pull_request_title">Pull Request name</string>
+</resources>
